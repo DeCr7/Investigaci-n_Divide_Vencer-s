@@ -1,0 +1,14 @@
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\bin\Debug\net8.0\DivideYVencerasAplicado.exe
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\bin\Debug\net8.0\DivideYVencerasAplicado.deps.json
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\bin\Debug\net8.0\DivideYVencerasAplicado.runtimeconfig.json
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\bin\Debug\net8.0\DivideYVencerasAplicado.dll
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\bin\Debug\net8.0\DivideYVencerasAplicado.pdb
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\obj\Debug\net8.0\DivideYVencerasAplicado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\obj\Debug\net8.0\DivideYVencerasAplicado.AssemblyInfoInputs.cache
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\obj\Debug\net8.0\DivideYVencerasAplicado.AssemblyInfo.cs
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\obj\Debug\net8.0\DivideYVencerasAplicado.csproj.CoreCompileInputs.cache
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\obj\Debug\net8.0\DivideYVencerasAplicado.dll
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\obj\Debug\net8.0\refint\DivideYVencerasAplicado.dll
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\obj\Debug\net8.0\DivideYVencerasAplicado.pdb
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\obj\Debug\net8.0\DivideYVencerasAplicado.genruntimeconfig.cache
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DivideYVencerasAplicado\obj\Debug\net8.0\ref\DivideYVencerasAplicado.dll
