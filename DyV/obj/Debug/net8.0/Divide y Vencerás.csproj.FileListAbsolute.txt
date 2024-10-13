@@ -1,0 +1,14 @@
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\bin\Debug\net8.0\Divide y Vencerás.exe
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\bin\Debug\net8.0\Divide y Vencerás.deps.json
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\bin\Debug\net8.0\Divide y Vencerás.runtimeconfig.json
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\bin\Debug\net8.0\Divide y Vencerás.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\bin\Debug\net8.0\Divide y Vencerás.pdb
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\obj\Debug\net8.0\Divide y Vencerás.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\obj\Debug\net8.0\Divide y Vencerás.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\obj\Debug\net8.0\Divide y Vencerás.AssemblyInfo.cs
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\obj\Debug\net8.0\Divide y Vencerás.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\obj\Debug\net8.0\Divide y Vencerás.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\obj\Debug\net8.0\refint\Divide y Vencerás.dll
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\obj\Debug\net8.0\Divide y Vencerás.pdb
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\obj\Debug\net8.0\Divide y Vencerás.genruntimeconfig.cache
+C:\Users\usuario\Documents\Metodología\Trabajos\Divide y Vencerás\obj\Debug\net8.0\ref\Divide y Vencerás.dll
