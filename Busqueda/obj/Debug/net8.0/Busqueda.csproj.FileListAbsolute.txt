@@ -1,0 +1,14 @@
+C:\Users\Amaru_2023\source\repos\Busqueda\bin\Debug\net8.0\Busqueda.exe
+C:\Users\Amaru_2023\source\repos\Busqueda\bin\Debug\net8.0\Busqueda.deps.json
+C:\Users\Amaru_2023\source\repos\Busqueda\bin\Debug\net8.0\Busqueda.runtimeconfig.json
+C:\Users\Amaru_2023\source\repos\Busqueda\bin\Debug\net8.0\Busqueda.dll
+C:\Users\Amaru_2023\source\repos\Busqueda\bin\Debug\net8.0\Busqueda.pdb
+C:\Users\Amaru_2023\source\repos\Busqueda\obj\Debug\net8.0\Busqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amaru_2023\source\repos\Busqueda\obj\Debug\net8.0\Busqueda.AssemblyInfoInputs.cache
+C:\Users\Amaru_2023\source\repos\Busqueda\obj\Debug\net8.0\Busqueda.AssemblyInfo.cs
+C:\Users\Amaru_2023\source\repos\Busqueda\obj\Debug\net8.0\Busqueda.csproj.CoreCompileInputs.cache
+C:\Users\Amaru_2023\source\repos\Busqueda\obj\Debug\net8.0\Busqueda.dll
+C:\Users\Amaru_2023\source\repos\Busqueda\obj\Debug\net8.0\refint\Busqueda.dll
+C:\Users\Amaru_2023\source\repos\Busqueda\obj\Debug\net8.0\Busqueda.pdb
+C:\Users\Amaru_2023\source\repos\Busqueda\obj\Debug\net8.0\Busqueda.genruntimeconfig.cache
+C:\Users\Amaru_2023\source\repos\Busqueda\obj\Debug\net8.0\ref\Busqueda.dll

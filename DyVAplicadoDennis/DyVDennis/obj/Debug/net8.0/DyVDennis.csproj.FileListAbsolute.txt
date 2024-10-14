@@ -1,0 +1,15 @@
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\obj\Debug\net8.0\DyVDennis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\obj\Debug\net8.0\DyVDennis.AssemblyInfoInputs.cache
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\obj\Debug\net8.0\DyVDennis.AssemblyInfo.cs
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\obj\Debug\net8.0\DyVDennis.csproj.CoreCompileInputs.cache
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\obj\Debug\net8.0\DyVDennis.sourcelink.json
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\bin\Debug\net8.0\DyVDennis.exe
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\bin\Debug\net8.0\DyVDennis.deps.json
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\bin\Debug\net8.0\DyVDennis.runtimeconfig.json
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\bin\Debug\net8.0\DyVDennis.dll
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\bin\Debug\net8.0\DyVDennis.pdb
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\obj\Debug\net8.0\DyVDennis.dll
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\obj\Debug\net8.0\refint\DyVDennis.dll
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\obj\Debug\net8.0\DyVDennis.pdb
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\obj\Debug\net8.0\DyVDennis.genruntimeconfig.cache
+C:\Users\Amaru_2023\Desktop\Ejemplo Práctico\DyVAplicadoDennis\DyVDennis\obj\Debug\net8.0\ref\DyVDennis.dll
